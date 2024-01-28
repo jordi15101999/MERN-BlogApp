@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.hero-img {
+    background-image: url("/react.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.dashboard-welcome {
+    background-image: url("/wave1.png");
+    background-size: cover;
+}
+
+.hero-img {
+    height: 560px;
+}
+
